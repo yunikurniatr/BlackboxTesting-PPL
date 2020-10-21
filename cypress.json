@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://hndr91.github.io/demo-ui/",
+    "ignoreTestFiles": "**/examples/**",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
+}
